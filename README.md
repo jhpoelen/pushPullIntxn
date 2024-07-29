@@ -1,6 +1,6 @@
 This repository provides data for the push-pull interactions in agriculture, mainly amongst *Zea mays*, *Sorghum*, *Desmodium* species, and *Striga hermonthica*. See issue globalbioticinteractions/globalbioticinteractions#993
 
-[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/template-dataset)](https://globalbioticinteractions.org/?accordingTo=globi:jhpoelen/pushPullIntxn) 
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:jhpoelen/pushPullIntxn)](https://globalbioticinteractions.org/?accordingTo=globi:jhpoelen/pushPullIntxn) 
 
 The following provides an example on how to make your interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
 
